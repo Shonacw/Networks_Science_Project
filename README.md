@@ -6,4 +6,4 @@ Networks science builds predictive models for systems containing non-trivial con
 
 This report investigates models of a growing network using various edge attachment strategies: namely pure preferential attachment, pure random attachment, and random walk attachment. Using a comparison of predicted theory against numerical results, the maximum degree trend and degree probability distribution are studied for each attachment method.
 
-Please see my full project write-up: [*A Growing Network Model*](https://github.com/Shonacw/Networks_Science_Project/blob/main/ShonaCurtisWalcott_NetworksReport.pdf), and my accompanying [*code*](https://github.com/Shonacw/Networks_Science_Project/blob/main/Networks_Code.py).
+Please see my full project write-up [*A Growing Network Model*](https://github.com/Shonacw/Networks_Science_Project/blob/main/ShonaCurtisWalcott_NetworksReport.pdf), and my accompanying [*code*](https://github.com/Shonacw/Networks_Science_Project/blob/main/Networks_Code.py).
